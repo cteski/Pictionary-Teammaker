@@ -1,0 +1,9 @@
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\bin\Debug\PictionaryTeamMaker.exe.config
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\bin\Debug\PictionaryTeamMaker.exe
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\bin\Debug\PictionaryTeamMaker.pdb
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\obj\Debug\PictionaryTeamMaker.csprojResolveAssemblyReference.cache
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\obj\Debug\PictionaryTeamMaker.Form1.resources
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\obj\Debug\PictionaryTeamMaker.Properties.Resources.resources
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\obj\Debug\PictionaryTeamMaker.csproj.GenerateResource.Cache
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\obj\Debug\PictionaryTeamMaker.exe
+\\192.168.20.51\Personnel\JNail\PictionaryTeamMaker\PictionaryTeamMaker\obj\Debug\PictionaryTeamMaker.pdb
